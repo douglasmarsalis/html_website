@@ -1,2 +1,2 @@
 # html_website
-Visit my site: https://github.com/douglasmarsalis/html_website.git
+Visit my site: https://douglasmarsalis.github.io/html_website/index.html
